@@ -49,16 +49,16 @@ Not necessarily in this order!
 - something else
 
 ### Using Markdown
-"Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
+>Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
 
-Using Markdown is different than using a WYSIWYG editor. In an application like Microsoft Word, you click buttons to format words and phrases, and the changes are visible immediately. Markdown isn’t like that. When you create a Markdown-formatted file, you add Markdown syntax to the text to indicate which words and phrases should look different.
+>Using Markdown is different than using a WYSIWYG editor. In an application like Microsoft Word, you click buttons to format words and phrases, and the changes are visible immediately. Markdown isn’t like that. When you create a Markdown-formatted file, you add Markdown syntax to the text to indicate which words and phrases should look different.
 
-For example, to denote a heading, you add a number sign before it (e.g., # Heading One). Or to make a phrase bold, you add two asterisks before and after it (e.g., \*\*this text would usually be bold\*\* if I hadn't used backslashes to demonstrate). It may take a while to get used to seeing Markdown syntax in your text, especially if you’re accustomed to WYSIWYG applications."
+>For example, to denote a heading, you add a number sign before it (e.g., # Heading One). Or to make a phrase bold, you add two asterisks before and after it (e.g., \*\*this text would usually be bold\*\* if I hadn't used backslashes to demonstrate). It may take a while to get used to seeing Markdown syntax in your text, especially if you’re accustomed to WYSIWYG applications.
 
-[www.markdownguide.org](https://www.markdownguide.org/getting-started/)
+>[www.markdownguide.org](https://www.markdownguide.org/getting-started/)
 
 ### Text example
-*Jenkins, H. (2006) Convergence Culture: Where Old and New Media Collide, New York University Press*
+**Jenkins, H. (2006) *Convergence Culture: Where Old and New Media Collide.* New York University Press**
 Convergence Culture is about how digital information has brought together multiple media into one format, so that images, texts, video, sound, interaction and games all operate within the same space. In particular, Jenkins is interested in how the interactive nature of digital technology allows for participation in culture—he cites examples of fan-fiction ending up being used in TV and film, but also issues where remix practices problematize copyright and authorship, and intellectual property. 
 
 >Welcome to convergence culture, where old and new media collide, where grassroots and corporate media intersect, where the power of the media producer and the power of the media consumer interact in unpredictable ways. (Jenkins 2006, p.2)
@@ -73,11 +73,12 @@ Could use this quote in a section about power structures embedded within media t
 
 >Convergence does not occur through media appliances, however sophisticated they become. Convergence occurs  within the brains of the individual consumers and through their social interactions with others. Each of us constructs  our own personal mythology from bits and fragments of information extracted from the media flow and  transformed into resources through which we make sense of our everyday lives. (Jenkins 2006, pp.3-4)
 
-### Non text example
-*Ubisoft (2018) Assassin's Creed - Odyssey. Discovery Tour: Ancient Greece. Ubisoft*
+### Non-text example
+**Ubisoft (2018) *Assassin's Creed - Odyssey. Discovery Tour: Ancient Greece.* Ubisoft**
+
 ![Assassin's Creed - Odyssey.](https://raw.githubusercontent.com/geckohooks/criticalRepo/main/assassinsCreed.jpeg)
 
-‘Discovery Tour: Ancient Greece is a chance to delve into the past and learn more about the conflicts, philosophy, myths, cities, art, and daily life of Ancient Greece.’ (Reparaz 2019) 
+>Discovery Tour: Ancient Greece is a chance to delve into the past and learn more about the conflicts, philosophy, myths, cities, art, and daily life of Ancient Greece. (Reparaz 2019) 
 
 Think it might be interesting to use as an example of the relationship between gaming and cultural history. How does gamifying this history challenge its educational value? What’s the potential of this medium for changing classroom teaching?
 

@@ -33,6 +33,11 @@ Constant understand their development of Open Source Software as a political act
 
 >Kittler’s approach also breaks with other well-known media theorists such as Baudrillard or Lyotard, for it pays little attention to either the shifting logic of simulacral forms or to the forces of the capitalist market. Instead, Kittler focuses overwhelmingly on the hardware of media technologies, and on the conditions and possibilities to which they give rise. (Gane and Hansen-Magnusson 2006, p.315)
 
+**Questions and Prompts**
+Whose views do I agree with?
+Does Free Software make any positive difference at all? Is it worth it?
+What further reading could I do?
+Why does Snelting use such un-technological metaphors (soup, fish, spoons)?
 
 **Cuttings**
 >Like McLuhan, Kittler’s approach is deeply materialist in orientation and, above all, emphasizes the role of media technologies in structuring ‘human affairs’. But, at the same time, Kittler breaks from McLuhan in important ways. Not least, he proposes the impossibility of understanding media as technologies, for technologies are said to create the conditions under which understanding, or interpretive activity more generally, may take place, rather than vice versa. (Gane and Hansen-Magnusson 2006, p.315)

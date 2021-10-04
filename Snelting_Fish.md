@@ -27,6 +27,7 @@ Kittler, Friedrich (1999) *Gramophone, Film, Typewriter.* Stanford, CA: Stanford
 
 Lister, Martin; Dovey, John; Giddings, Seth; Grant, Iain and Kelly, Kieran (2009) *New Media: A Critical Introduction.* Abingdon:Routledge
 
-Williams, Raymond (1974) *Technology and Cultural Form.* London:Fontana.
-Williams, Raymond (1977) *Marxism and Literature.* Oxford:Oxford University Press.
-Williams, Raymond (1983) *Towards 2000.* Hammondsworth:Penguin.
+Williams, Raymond 
+- (1974) *Technology and Cultural Form.* London:Fontana.
+- (1977) *Marxism and Literature.* Oxford:Oxford University Press.
+- (1983) *Towards 2000.* Hammondsworth:Penguin.

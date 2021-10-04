@@ -1,10 +1,10 @@
 # critical_repo
-This is the Critical Repository (Repo) for my research on *Point Clouds, Photogrammetry and Volumetric Regimes*. As Carol Grey and Julian Malins outline: 
+As Carol Grey and Julian Malins outline: 
 >There are two distinct phases in developing an understanding of your proposed research area through a Contextual Review:
 >1. Initial surveys, to establish the proposal’s rationale and viability, to provide some background information, and to help focus the proposal. From these searches a set of relevant references/sources can be compiled into a bibliography and/or a ‘store’ of non-textual source material.
 >2. The use of these references/sources to develop a critical review of your research context, leading to the identificaton of your own particular research question and the development of a convincing argument. (2004, pp.53-54)
 
-This repo will contain a file of **notes and quotes** for each of the bibliographic sources in my initial survey, as well as **documentation of non-text sources**, including description and analysis of these. 
+The repo should contain a file of **notes and quotes** for each of the bibliographic sources in the survey, as well as **documentation of non-text sources**, including description and analysis of them. 
 
 Notes cover a wide variety of functions, including: explaining quotes, considering possible relevance to my research topic, signposting links with other practitioners or theorists, or even notes-to-self about how/where material could get used, other research required to understand issues better, potential examples, designs, artworks, software etc. that illustrate/problematise the source in question.
 
@@ -25,8 +25,8 @@ Hemment, D. (2006) ‘Locative Arts,’ *Leonardo,* Vol. 39, No. 4, pp. 348–35
 Kojima, H. (2019) *Death Stranding.* Kojima Productions.
 McCall, J. (2020) ‘The Historical Problem Space Framework: Games as a Historical Medium,’ *Game Studies,* Vol.  20, No. 3. [Available online at http://gamestudies.org/2003/articles/mccall].
 
-### Step 2: Create new files for each item in the list, or duplicate the bibliography and 
-This is so that you can have one copy that remains purely made up of bibliographic data (names, titles, publishers, dates etc.); and the other 
+### Step 2: Create new files for each item in the list, or duplicate the bibliography and annotate each source one after the next in a single document
+(so that you can have one copy that remains purely made up of bibliographic data (names, titles, publishers, dates etc.))
 
 ### Step 3: Annotating textual sources
 - Start with a bibliographic data (names, titles, publishers, dates etc.)
@@ -59,6 +59,7 @@ Not necessarily in this order!
 
 ### Text example
 **Jenkins, H. (2006) *Convergence Culture: Where Old and New Media Collide.* New York University Press**
+
 Convergence Culture is about how digital information has brought together multiple media into one format, so that images, texts, video, sound, interaction and games all operate within the same space. In particular, Jenkins is interested in how the interactive nature of digital technology allows for participation in culture—he cites examples of fan-fiction ending up being used in TV and film, but also issues where remix practices problematize copyright and authorship, and intellectual property. 
 
 >Welcome to convergence culture, where old and new media collide, where grassroots and corporate media intersect, where the power of the media producer and the power of the media consumer interact in unpredictable ways. (Jenkins 2006, p.2)

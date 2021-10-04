@@ -1,12 +1,5 @@
-#THIS IS A HEADING
-
-##SUBHEADING
-
-##SUB SUB HEADING
-
-Snelting, Femke (2006) A Fish Can't Judge The Water.
-
-http://ospublish.constantvzw.org/blog/news/a-fish-cant-judge-the-water
+# Snelting, Femke (2006) A Fish Can't Judge The Water. 
+### http://ospublish.constantvzw.org/blog/news/a-fish-cant-judge-the-water
 
 Responding to McLuhanite thinking, Raymond Williams argued against what subsequently became known as Technological Determinism by suggesting that “Any idea that a medium can be reduced to a technology, or that the technological element which is admitted to be a part of any media process should be central to its study, [should be] strongly resisted.”  (Lister et al 2009, p.78)
 

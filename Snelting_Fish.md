@@ -25,13 +25,17 @@ But she goes further too, by translating such perspectives into a personal praxi
 
 >Could we understand what software does to our work and working patterns without being able to step away from it? What if our work is not only made with, but also through software? What if our work IS software? Can we think ourselves outside it?(Snelting 2006)
 
+Halfway through the text there is a break, and Snelting changes direction: she moves to a discussion of Constant, the media group that she is part of.
 
+>"someone can know how to type but not know how to read the words produced (...) just as someone can be able to read a typescript without knowing how to type" (Katherine Hayles - How We Became Posthuman) Because we want to be both typist and reader, Constant is committed to Open Source Software. Or more precisely: we are interested in the tension between those two positions.
+
+Constant understand their development of Open Source Software as a political act. The typist and reader analogy implies both a materialist view (such as that of Kittler, or perhaps McLuhan), the Marxian understanding of politics and markets a la Williams, and the semiotic approaches of Baudrillard, Lyotard and others - even though, for Kittler, semiotics were irrelevant.
+
+>Kittler’s approach also breaks with other well-known media theorists such as Baudrillard or Lyotard, for it pays little attention to either the shifting logic of simulacral forms or to the forces of the capitalist market. Instead, Kittler focuses overwhelmingly on the hardware of media technologies, and on the conditions and possibilities to which they give rise. (Gane and Hansen-Magnusson 2006, p.315)
 
 
 **Cuttings**
 >Like McLuhan, Kittler’s approach is deeply materialist in orientation and, above all, emphasizes the role of media technologies in structuring ‘human affairs’. But, at the same time, Kittler breaks from McLuhan in important ways. Not least, he proposes the impossibility of understanding media as technologies, for technologies are said to create the conditions under which understanding, or interpretive activity more generally, may take place, rather than vice versa. (Gane and Hansen-Magnusson 2006, p.315)
-
->Kittler’s approach also breaks with other well-known media theorists such as Baudrillard or Lyotard, for it pays little attention to either the shifting logic of simulacral forms or to the forces of the capitalist market. Instead, Kittler focuses overwhelmingly on the hardware of media technologies, and on the conditions and possibilities to which they give rise. (Gane and Hansen-Magnusson 2006, p.315)
 
 >What remains of people is what media can store and communicate. What counts are not the messages or the content with which they equip so-called souls for the duration of a technological era, but rather (and in strict accordance with McLuhan) their circuits, the very schematism of perceptibility. (Kittler 1999, pp.xl–xli) 
 

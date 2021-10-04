@@ -17,7 +17,7 @@ Similarly, a contextual review is also chapter within a master's or PhD thesis, 
 ## Contextual Repository
 The contextual repo is a (github) repository containing notes and quotes about all the source materials you might use to inform your final thesis/project.
 
-### Step 1: Make a list of sources
+### Step 1: Make a list of sources (A Bibliography)
 This will include: books, book chapters, journal articles and so on. But it can also include other cultural artefacts like artworks, designs, technologies etc.
 Whatever sources you use, should be referenced using the Harvard Style:
 
@@ -25,10 +25,13 @@ Hemment, D. (2006) ‘Locative Arts,’ *Leonardo,* Vol. 39, No. 4, pp. 348–35
 Kojima, H. (2019) *Death Stranding.* Kojima Productions.
 McCall, J. (2020) ‘The Historical Problem Space Framework: Games as a Historical Medium,’ *Game Studies,* Vol.  20, No. 3. [Available online at http://gamestudies.org/2003/articles/mccall].
 
-### Step 2: Annotate each source
-- Start with a paragraph or two summarizing the source: what it says, why its useful, whether it agrees or disagrees with others, how it adds to the discourse/practice.
-- Take quotes from text sources (these should be Harvard Referenced)
-- Write notes about them
+### Step 2: Create new files for each item in the list, or duplicate the bibliography and 
+This is so that you can have one copy that remains purely made up of bibliographic data (names, titles, publishers, dates etc.); and the other 
+
+### Step 3: Annotate each source
+- Start with a bibliographic data (names, titles, publishers, dates etc.)
+- Next a paragraph or two summarizing the source: what it is or says, why its useful, how it adds to the discourse/practice etc.
+- Take quotes from text sources (these should be Harvard Referenced) & write notes about them (see below)
 - Describe and analyse non-text sources
 
 Notes may: 
@@ -39,3 +42,12 @@ Notes may:
 - compare/contract with other texts, practices and perspectives, 
 - offer potential examples
 - something else
+
+### Using Markdown
+"Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
+
+Using Markdown is different than using a WYSIWYG editor. In an application like Microsoft Word, you click buttons to format words and phrases, and the changes are visible immediately. Markdown isn’t like that. When you create a Markdown-formatted file, you add Markdown syntax to the text to indicate which words and phrases should look different.
+
+For example, to denote a heading, you add a number sign before it (e.g., # Heading One). Or to make a phrase bold, you add two asterisks before and after it (e.g., \*\*this text would usually be bold\*\* if I hadn't used backslashes to demonstrate). It may take a while to get used to seeing Markdown syntax in your text, especially if you’re accustomed to WYSIWYG applications."
+
+[www.markdownguide.org](https://www.markdownguide.org/getting-started/)

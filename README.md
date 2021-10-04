@@ -75,7 +75,7 @@ Could use this quote in a section about power structures embedded within media t
 
 ### Non text example
 *Ubisoft (2018) Assassin's Creed - Odyssey. Discovery Tour: Ancient Greece. Ubisoft*
-![Assassin's Creed - Odyssey.](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstore.ubi.com%2Fuk%2Fdiscovery-tour--ancient-greece-by-ubisoft%2F5d4041f35cdf9a07d09464ad.html&psig=AOvVaw0FnEDJNVYJNCnCrt0UHrsL&ust=1633472090492000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOij2fPjsfMCFQAAAAAdAAAAABAJ)
+![Assassin's Creed - Odyssey.](https://raw.githubusercontent.com/geckohooks/criticalRepo/main/assassinsCreed.jpeg)
 
 ‘Discovery Tour: Ancient Greece is a chance to delve into the past and learn more about the conflicts, philosophy, myths, cities, art, and daily life of Ancient Greece.’ (Reparaz 2019) 
 

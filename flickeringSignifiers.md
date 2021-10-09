@@ -20,6 +20,9 @@ Why does Hayles contrast absence/presence with pattern and randomness? What's th
 
 >Questions about presence and absence do not yield much leverage in this situation, for the avatar both is and is not present, just as the user both is and is not inside the screen. Instead, the focus shifts to questions about pattern and randomness. What transformations govern the connections between user and avatar? What parameters control the construction of the screen world? What patterns can the user discover through interaction with the system? Where do these patterns fade into randomness? What stimuli cannot be encoded within the system and therefore exist only as extraneous noise? When and how does this noise coalesce into pattern? (Hayles 1999,p.27)
 
-Sherry Turkle, in her fascinating work on people who spend serious time in MUDs, convincingly shows that virtual technologies, in a riptide of reverse influence, affect how real life is seen. "Reality is not my best window," one of her respondents remarks.(Hayles 1999,p.27)
+>Sherry Turkle, in her fascinating work on people who spend serious time in MUDs, convincingly shows that virtual technologies, in a riptide of reverse influence, affect how real life is seen. "Reality is not my best window," one of her respondents remarks.(Hayles 1999,p.27)
 
+I love this phrase 'a riptide of reverse influence'... really reminds me of Hito Steyerl's *Too Much World*. 
 
+Discussion of terms
+Heterogeneous, fissured, discursive, 

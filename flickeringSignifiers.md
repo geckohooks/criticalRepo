@@ -92,7 +92,7 @@ There's a section where Hayles discussion Lacan, Freud and castration; but reall
 
 
 # Discussion of terms
-Heterogeneous, fissured, discursive, 
+Heterogeneous, fissured, discursive, signifiers and signified, floating signifiers, simulacra, posthumanism, 
 
 # Bibliography
 Chandler, D. (2013) ‘Semiotics for Beginners’. Online. www.dominicpetrillo.com/ed/Semiotics_for_Beginners.

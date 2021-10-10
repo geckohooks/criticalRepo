@@ -74,9 +74,22 @@ What are 'floating signifiers'? Also known as an 'empty signifier', these are si
 
 > Intervening between what I see and what the computer reads are the machine code that correlates alphanumeric symbols with binary digits, the compiler language that correlates these symbols with higher-level instmctions determining how the symbols are to be manipulated, the processing program that mediates between these instmctions and the commands I give the computer, and so forth. A signifier on one level becomes a signified on the next-higher level. (Hayles 1999, p.31)
 
-> If I am prodUCing ink marks by manipulating movable type, changing the font requires changing each line of type. By contrast, if I am prodUCing flickering signifiers on a video screen, changing the font is as easy as giving the system a single command. The longer the chain of codes, the more radical the transformations that can be effected. Acting as linguistic transducers, the coding chains impart astonishing power to even very small changes. Such amplification is possible because the constant reproduced through multiple coding layers is a pattern rather than a presence.
+> If I am producing ink marks by manipulating movable type, changing the font requires changing each line of type. By contrast, if I am producing flickering signifiers on a video screen, changing the font is as easy as giving the system a single command. The longer the chain of codes, the more radical the transformations that can be effected. Acting as linguistic transducers, the coding chains impart astonishing power to even very small changes. Such amplification is possible because the constant reproduced through multiple coding layers is a pattern rather than a presence.
 
-This, it seems to me, is at the heart of what digital information is, and how/why it matters. This concept of a 'linguistic transducer' is amazing...!
+This, it seems to me, is at the heart of what digital information is, and how/why it matters. This concept of a 'linguistic transducer' is amazing...! The power to extend, amplify, modulate meaning through code.
+
+> Although mutation disrupts pattern, it also presupposes a morphological standard against which it can be measured and understood as a mutation. If there were only randomness, as with the random movements of gas molecules, it would make no sense to speak of mutation. We have seen that in electronic textuality, the possibilities for mutation within the text are enhanced and heightened by long coding chains. We can now understand mutation in more fundamental terms.(Hayles 1999, p.33)
+
+That is to say, mutation is a modulation of existing pattern, not pure randomness.
+
+> Mutation is crucial because it names the bifurcation point at which the interplay between pattern and randomness causes the system to evolve in a new direction. It reveals the productive potential of randomness that is also recognized within information theory when uncertainty is seen as both antagonistic and intrinsic to information. (Hayles 1999, p.33)
+
+So why does she continue to push this comparison between the bodily/biological/genetic and the informational? It seems that she's not simply following Bill Nichol's approach of saying that because cybernetics is the dominant paradigm, that's how we're going to understand the world. Rather, she's arguing the case to say they really do share strong parallels. And in this example, she makes the case well: the notion that uncertainty is intrinsic AND antagonistic to information compares beautifully with the idea of genetic mutation.
+
+There's a section where Hayles discussion Lacan, Freud and castration; but really the mention of these is emphasise the importance of moving away from their logics, to one of mutation. She discusses David Cronenburg's The Fly, when Jeff Goldbloom mutates from human to -- I guess -- a posthuman, through the advances of science and technology. 
+
+> the posthuman appears when computation rather than possessive individualism is taken as the ground of being, a move that allows the posthuman to be seamlessly articulated with intelligent machines.(Hayles 1999, p.34)
+
 
 # Discussion of terms
 Heterogeneous, fissured, discursive, 

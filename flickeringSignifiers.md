@@ -44,7 +44,27 @@ On p.29 Hayles discusses 'a parallel doubleness' of materiality between books an
 
 >As we have seen, the human body is understood in molecular biology simultaneously as an expression of genetic information and as a physical structure. Similarly, the literary corpus is at once a physical object and a space of representation, a body and a message. Because they have bodies, books and humans have something to lose if they are regarded solely as informational patterns, namely the resistant materiality that has traditionally marked the durable inscription of books no less than it has marked our experiences ofliving as embodied creatures.(Hayles 1999,p.29)
 
-Not sure on the exact framing of informatics here. Hayles says that informatics denote a network of relations. From Haraway, she suggests it includes: 'the technologies of information as well as the biological, social, linguistic, and cultural changes that initiate, accompany, and complicate their development'. (Hayles 1999,p.29) In sum then, it seems she understands informatics as the study of technologies networked relations with biological, social, cultural and other spheres. University of Edinburgh describes informatics as 'the study of the structure, behaviour, and interactions of natural [systems] and engineered computational systems.' https://www.ed.ac.uk/files/atoms/files/what20is20informatics.pdf also see https://www.designinformatics.org/
+Not sure on the exact framing of informatics here. Hayles says that informatics denote a network of relations. From Haraway, she suggests it includes: 'the technologies of information as well as the biological, social, linguistic, and cultural changes that initiate, accompany, and complicate their development'. (Hayles 1999,p.29) In sum then, it seems she understands informatics as the study of technologies networked relations with biological, social, cultural and other spheres. University of Edinburgh describes informatics as 'the study of the structure, behaviour, and interactions of natural [systems] and engineered computational systems.' (Hayles 1999,p.29) https://www.ed.ac.uk/files/atoms/files/what20is20informatics.pdf also see https://www.designinformatics.org/
+
+The main argument of this chapter is:
+
+>The contemporary pressure toward dematerialization, understood as an epistemic shift toward pattern/randomness and away from presence/absence, affects human and textual bodies on two levels at once, as a change in the body (the material substrate) and as a change in the message (the codes of representation). (Hayles 1999,p.29)
+
+Quite a few artists, designers and theorists at the time understood digital tehnology as 'immaterial' or 'virtual'. This idea is still there in the name Virtual Reality, and implied in terms like 'cyberspace'.  
+
+>The connectivity between these changes is, as they say in the computer industry, maSSively parallel and highly interdigitated. (Hayles 1999,p.29)
+
+...that is, she's arguing that the material and informatic are closely entwined and interrelated, affecting one another in complex ways. Interdigitated means interlocking like fingers of clasped hands. Massively parallel 'is the term for using a large number of computer processors (or separate computers) to simultaneously perform a set of coordinated computations in parallel. The term first coined with the introduction of GPGPU \[General Purpose GPU\] by NVIDIA. GPUs are massively parallel architecture with tens of thosands of threads.
+
+See also https://www.omnisci.com/technical-glossary/gpgpu and https://en.wikipedia.org/wiki/Massively_parallel
+
+>My narrative will therefore weave back and forth between the represented worlds of contemporary fictions, models of signification implicit in word processing, embodied experience as it is constructed by interactions with information technologies, and the technologies themselves. (Hayles 1999,p.29)
+
+i.e. between literature, semiotics, the embodied experience of such content as it's constructed by technology and the technology itself. Hayles is attacking 'massively parallel' topics, in order to trace the various feedback/forward loops between culture, society and computing. Reminds me somewhat of Manovich's concept -- in The Language of New Media (published a couple of years later in 2001) -- of cultural transcoding. For Manovich, transcoding is central to what computers do... taking a human layer and making it machine readable or vice versa, making computing layer readable by humans. In cultural transcoding, these two separate layers, the cultural and the computational are compounded together.
+
+Information technologies do more than change modes of text production, storage, and dissemination. They fundamentally alter the relation of Signified to Signifier. (Hayles 1999, pp.29-30)
+
+Carrying the instabilities implicit in Lacanian floating signifiers one step further, information technologies create what I will calljlickering signifiers, characterized by their tendency toward unexpected metamorphoses, attenuations, and dispersions.(Hayles 1999, p.30)
 
 # Discussion of terms
 Heterogeneous, fissured, discursive, 

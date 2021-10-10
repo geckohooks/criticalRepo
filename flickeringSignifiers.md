@@ -34,6 +34,13 @@ This closely relates to Snelting's notion that 'the fish can't judge the water'.
 
 >In fact, each category--production, signification, consumption, bodily experience, and representation--is in constant feedback and feedforward loops with the others. (Hayles 1999,p.28)
 
+>As the emphasis shifts to pattern and randomness, characteristics of print texts that used to be transparent (because they were so pervasive) are becoming visible again through their differences from digital textuality. We lose the opportunity to understand the implications of these shifts if we mistake the dominance of pattern/randomness for the disappearance of the material world. In fact, it is precisely because material interfaces have changed that pattern and randomness can be perceived as dominant over presence and absence.(Hayles 1999,p.28)
+
+>The pattern/randomness dialectic does not erase the material world; information in fact derives its efficacy from the material infrastructures it appears to obscure. This illusion of erasure should be the subject of inquiry, not a presupposition that inquiry takes for granted.(Hayles 1999,p.28) 
+
+I seem to be quoting almost the whole of this chapter (so far) verbatim, because there's so much good stuff here. I particularly liked the idea that the informational logics of randomness and pattern don't get rid of materiality, but--even as they ascend in importance--help us understand the structures of materiality... And as the above emphasise, even information has a material aspect to it.
+
+On p.29 Hayles discusses 'a parallel doubleness' of materiality between books and bodies. Why does she choose to compare these? Is it because she's trying to make the point that informational paradigm can be applied to genetics and literature? Or, like Bill Nichol's *The Work of Culture in the Age of Cybernetic Systems* that such paradigms end up determining the way we think about things. Maybe it's both: they are similar, and can be thought of in parallel; but both technologies, and the very thinking of them together, also tend to result in 'feedback and feedforward loops' i.e. a 'riptide of reverse influence'.  
 
 # Discussion of terms
 Heterogeneous, fissured, discursive, 

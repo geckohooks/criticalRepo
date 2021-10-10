@@ -62,9 +62,11 @@ See also https://www.omnisci.com/technical-glossary/gpgpu and https://en.wikiped
 
 i.e. between literature, semiotics, the embodied experience of such content as it's constructed by technology and the technology itself. Hayles is attacking 'massively parallel' topics, in order to trace the various feedback/forward loops between culture, society and computing. Reminds me somewhat of Manovich's concept -- in The Language of New Media (published a couple of years later in 2001) -- of cultural transcoding. For Manovich, transcoding is central to what computers do... taking a human layer and making it machine readable or vice versa, making computing layer readable by humans. In cultural transcoding, these two separate layers, the cultural and the computational are compounded together.
 
-Information technologies do more than change modes of text production, storage, and dissemination. They fundamentally alter the relation of Signified to Signifier. (Hayles 1999, pp.29-30)
+>Information technologies do more than change modes of text production, storage, and dissemination. They fundamentally alter the relation of Signified to Signifier. (Hayles 1999, pp.29-30)
 
-Carrying the instabilities implicit in Lacanian floating signifiers one step further, information technologies create what I will calljlickering signifiers, characterized by their tendency toward unexpected metamorphoses, attenuations, and dispersions.(Hayles 1999, p.30)
+>Carrying the instabilities implicit in Lacanian floating signifiers one step further, information technologies create what I will calljlickering signifiers, characterized by their tendency toward unexpected metamorphoses, attenuations, and dispersions.(Hayles 1999, p.30)
+
+What are 'Lacanian floating signifiers'?
 
 # Discussion of terms
 Heterogeneous, fissured, discursive, 

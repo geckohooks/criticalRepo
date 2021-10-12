@@ -1,5 +1,7 @@
 Hayles, N. Katharine (1999) "Virtual Bodies and Flickering Signifiers". In *How We Became Post Human - Virtual Bodies in Cybernetics, Literature and Informatics*. pp.25-49.
 
+The text can be thought of in a few sections. Hayles begins with the development of information theory, introducing the idea of information, pattern and randomness. She emphasises the distinction between information and the 'markers the embody it', such as newsprint or electromagnetic waves. And in the next couple of she follows this logic to show how electronic media differ from their mechanical counterparts, in the beautiful section about the correspondane between input/output in a typewriter, and the dislocation of i/o on a computer. From pages 27-29 she argues for the shift from absence/presence to pattern/randomness, and explores this in terms of examples like electronic money, genetic mutation, online communication and virtual reality. Importantly she emphasises the challenge to embodiment that this shift brings. However this is also why she uses the term 'informatics', since this implies the interrelations of technology, biology, culture, lanugage and society (29). By page 30 this preamble has allowed her to introduce the concept of the **flickering signifier.** From p.32-43 she explores a series of works of literature including: Thomas Pinchon's Gravity's Rainbow, Italo Calvino's If on a Winters Night a Traveller,  William Gibson's Neuromancer, Don DeLillo's White Noise, William Gibson's Naked Lunch; as well as the film, The Fly by David Cronenberg. Finally she finishes up 
+
 >In a literal sense, technologies of inscription are media when they are perceived as mediating, inserting themselves into the chain of textual production. (Hayles 1999,p.26)
 
 >Kittler identifies the innovative characteristics of the typewriter, originally designed for the blind, not with speed but rather with "spatially designated and discrete signs," along with a corresponding shift from the word as flowing image to the word "as a geometrical figure created by the spatial arrangements of the letter keys" (here Kittler quotes Richard Herbertz).(Hayles 1999,p.26)
@@ -46,13 +48,13 @@ On p.29 Hayles discusses 'a parallel doubleness' of materiality between books an
 
 Not sure on the exact framing of informatics here. Hayles says that informatics denote a network of relations. From Haraway, she suggests it includes: 'the technologies of information as well as the biological, social, linguistic, and cultural changes that initiate, accompany, and complicate their development'. (Hayles 1999,p.29) In sum then, it seems she understands informatics as the study of technologies networked relations with biological, social, cultural and other spheres. University of Edinburgh describes informatics as 'the study of the structure, behaviour, and interactions of natural [systems] and engineered computational systems.' (Hayles 1999,p.29) https://www.ed.ac.uk/files/atoms/files/what20is20informatics.pdf also see https://www.designinformatics.org/
 
-The main argument of this chapter is:
+**The main argument of this chapter is:**
 
 >The contemporary pressure toward dematerialization, understood as an epistemic shift toward pattern/randomness and away from presence/absence, affects human and textual bodies on two levels at once, as a change in the body (the material substrate) and as a change in the message (the codes of representation). (Hayles 1999,p.29)
 
 Quite a few artists, designers and theorists at the time understood digital tehnology as 'immaterial' or 'virtual'. This idea is still there in the name Virtual Reality, and implied in terms like 'cyberspace'.  
 
->The connectivity between these changes is, as they say in the computer industry, maSSively parallel and highly interdigitated. (Hayles 1999,p.29)
+>The connectivity between these changes is, as they say in the computer industry, massively parallel and highly interdigitated. (Hayles 1999,p.29)
 
 ...that is, she's arguing that the material and informatic are closely entwined and interrelated, affecting one another in complex ways. Interdigitated means interlocking like fingers of clasped hands. Massively parallel 'is the term for using a large number of computer processors (or separate computers) to simultaneously perform a set of coordinated computations in parallel. The term first coined with the introduction of GPGPU \[General Purpose GPU\] by NVIDIA. GPUs are massively parallel architecture with tens of thosands of threads.
 
@@ -64,7 +66,7 @@ i.e. between literature, semiotics, the embodied experience of such content as i
 
 >Information technologies do more than change modes of text production, storage, and dissemination. They fundamentally alter the relation of Signified to Signifier. (Hayles 1999, pp.29-30)
 
->Carrying the instabilities implicit in Lacanian floating signifiers one step further, information technologies create what I will call flickering signifiers, characterized by their tendency toward unexpected metamorphoses, attenuations, and dispersions.(Hayles 1999, p.30)
+>**Carrying the instabilities implicit in Lacanian floating signifiers one step further, information technologies create what I will call flickering signifiers, characterized by their tendency toward unexpected metamorphoses, attenuations, and dispersions.(Hayles 1999, p.30)**
 
 What are 'floating signifiers'? Also known as an 'empty signifier', these are signifiers without a referent i.e. a symbol that points to no actual object and has no agreed upon meaning. Baudrillard argues that in Postmodernism, 'Signifier is displaced from the signified, denoting the absence (instead of the presence) of reality, which thus underscores absent center. Floating signifiers displaced from the signified become simulacra.' (Zeng 2012, p.39) . For Chandler a floating signifier is: '… a signifier with a vague, highly variable, unspecifiable or nonexistent signified. Such signifiers mean different things to different people: they may stand for many or even any signified; they may mean whatever their interpreters want them to mean. (Chandler, 2013: 52) Perhaps a country's flag is a good example of this: it may mean different things to different people, and even change in meaning over time. So floating signifiers are unstable, and change in meaning, but presumably Hayles is suggesting here that  a flickering signifier is unstable because it can be deleted, copied, pasted, scaled, reversed or otherwise filtered ad infinitum. There is no fixed meaning.
 
@@ -74,7 +76,7 @@ What are 'floating signifiers'? Also known as an 'empty signifier', these are si
 
 > Intervening between what I see and what the computer reads are the machine code that correlates alphanumeric symbols with binary digits, the compiler language that correlates these symbols with higher-level instmctions determining how the symbols are to be manipulated, the processing program that mediates between these instmctions and the commands I give the computer, and so forth. A signifier on one level becomes a signified on the next-higher level. (Hayles 1999, p.31)
 
-> If I am producing ink marks by manipulating movable type, changing the font requires changing each line of type. By contrast, if I am producing flickering signifiers on a video screen, changing the font is as easy as giving the system a single command. The longer the chain of codes, the more radical the transformations that can be effected. Acting as linguistic transducers, the coding chains impart astonishing power to even very small changes. Such amplification is possible because the constant reproduced through multiple coding layers is a pattern rather than a presence.
+> If I am producing ink marks by manipulating movable type, changing the font requires changing each line of type. By contrast, if I am producing **flickering signifiers** on a video screen, changing the font is as easy as giving the system a single command. The longer the chain of codes, the more radical the transformations that can be effected. Acting as linguistic transducers, the coding chains impart astonishing power to even very small changes. Such amplification is possible because the constant reproduced through multiple coding layers is a pattern rather than a presence.
 
 This, it seems to me, is at the heart of what digital information is, and how/why it matters. This concept of a 'linguistic transducer' is amazing...! The power to extend, amplify, modulate meaning through code.
 
@@ -89,6 +91,19 @@ So why does she continue to push this comparison between the bodily/biological/g
 There's a section where Hayles discussion Lacan, Freud and castration; but really the mention of these is emphasise the importance of moving away from their logics, to one of mutation. She discusses David Cronenburg's The Fly, when Jeff Goldbloom mutates from human to -- I guess -- a posthuman, through the advances of science and technology. 
 
 > the posthuman appears when computation rather than possessive individualism is taken as the ground of being, a move that allows the posthuman to be seamlessly articulated with intelligent machines.(Hayles 1999, p.34)
+
+> "Employment of tools appears to be \[mans\] chief bioogical characteristic, for considered functionally they are detachable extensions of the forelimb." (Oakley 1949, in Hayles 1999, p.34)
+
+> By the 1960s, Marshall McLuhan was speculating about the transformation that media, understood as technological prostheses, were effecting on human beings. (Hayles 1999, p.34)
+
+> \[McLuhan\] argued that humans react to stress in their enviroments by withdrawing the locus of selfhood inward, in a numbing withdrawal from the world he called \[...\] "autoamputation." This withdrawal in turn facilitates and requries compensating technological extensions that project the body-as-prosthesis back out into the world \[...\] McLuhan clearly sees electronic media are capable of bringing about a reconfiguration so extensive as to change the nature of "man." (Hayles 1999, p.34)
+
+> A shift from ownership to access is another manifestation of the underlying transition from presence/absence to pattern/randomness \[...\] A significant difference between information and durable goods is replicability. Information is not a conserved quantity. If I give you information, you have it and I do too. With information, the constraining factor between the haves and have-nots is not so much possession as access. (Hayles 1999, p.39)
+
+Hayles mentions that David Harvey talks about information society moving from a Fordist regime to one of flexible accumulation. Fordism being to do with mass production and mass consumption. In The Condition of Postmodernity, Harvey describes flexible accumulation as: 
+
+> marked by a direct confrontation with the rigidities of Fordism.  It rests on flexibility with respect to labour processes, labour markets, products, and patterns of consumption.  It is characterized by the emergence of entirely new sectors of production, new ways of providing financial services, new markets, and, above all, greatly intensified rates of commercial, technological, and organizational innovation.  It has entrained rapid shifts in the patterning of uneven development, both between sectors and between geographical regions, giving rise, for example, to a vast surge in so-called 'service-sector' employment as well as to entirely new industrial ensembles in hitherto underdeveloped regions \[...\]  Has also also entailed a new round of what I shall call 'time-space compression'. . . in the capitalist world -- the time horizons of both private and public decision-making have shrunk, while satellite communication and declining transport costs have made it increasingly possible to spread those decisions immediately over an ever wider and variegated space (Harvey 1989,p.147).
+
 
 
 # Discussion of terms

@@ -1,6 +1,6 @@
 # Gray, Jonathan and Marres, Noortje (2018) “The data city as public experiment.” In, *London Ideas,* No. 1, 13.07.2018, p. 11-15
 
-This paper is about the role of data in understanding the city. Why are we looking at a paper that discusses data and the city, in a session on possible methods? Because ‘data’ (whether digital or not) is the raw material of research. Ways of collecting data, filtering it, analysing it etc. are central to research. Digital data is even more central to digital research! The methodological concerns in this paper are relevant to us; but so too are the issues they discuss. 
+This paper is about the role of data in understanding the city. Perhaps the key message is: 'Data technologies do more than merely monitor urban life. They may also shape it, inviting users to take on the role of participants and play an active role in defining and taking action.' (Gray & Noortje 2018, p.13) Why are we looking at a paper that discusses data and the city, in a session on possible methods? Because ‘data’ (whether digital or not) is the raw material of research. Ways of collecting data, filtering it, analysing it etc. are central to research. Digital data is even more central to digital research! The methodological concerns in this paper are relevant to us; but so too are the issues they discuss. 
 
 Professor Noortje Marres is Director of the Centre for Interdisciplinary Methodologies at the University of Warwick. She is currently a Visiting Professor in the Centre for Science and Technology Studies at the University of Leiden (the Netherlands). Her research is around Digital Sociology (she published a book on this topic 2017). 
 
@@ -34,3 +34,13 @@ Presumably, when they use the term ‘data collectives’ they’re referring to
 In what ways does this ‘double logic’ matter? How does it make a difference?
 
 Gray & Noortje argue that while cities are capable of limiting multinationals (such as Uber) when they overstep civic interests, it’s much more difficult to develop ‘alternative, public-minded frameworks and methodologies for defning, designing and intervening in data.’
+
+Envisioning the 'city as a “living laboratory” \[...\] frames our living environments and lives as open to experimentation and modification. But the role of a city dweller is very different from that of a laboratory subject: we make sense of our own lives and actively participate in defining our world in ways beyond the scope of analysts.' (Gray & Noortje 2018, p.13)
+
+What's important about this? For a start, I don't always *want* to modify and experiment with my environment! There's labour involved in doing this, and a political issue around the difficulty in maintining control over ones own affairs, in a dataworld that balloons outwards, often without our knowledge. If our world is determined more and more by digital infrastructures and processes, it becomes harder to actively participate in defining that world.
+
+> Urban data does not just represent city life, it also renders it intelligible \[...\] Data infrastructures should be understood not just optically (as lenses or microscopes), but as scripting or framing devices, which actively format the activities they purport to measure. (Gray & Noortje 2018, p.13)
+
+> What then might urban digital data do for city dwellers? What counts and who decides? Who and what do data infrastructures draw together? What capacities do they confer, and to what end? Could data and data technology enable different forms of participation in the city? (Gray & Noortje 2018, p.13)
+
+I love this quote! It could be rephrased/repurposed for all sorts of projects:  'What then might digital data do for \[this project\]? What counts and who decides? Who and what do data infrastructures draw together? What capacities do they confer, and to what end? Could data and data technology enable different forms of participation in \[this project\]?' 

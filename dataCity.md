@@ -44,3 +44,10 @@ What's important about this? For a start, I don't always *want* to modify and ex
 > What then might urban digital data do for city dwellers? What counts and who decides? Who and what do data infrastructures draw together? What capacities do they confer, and to what end? Could data and data technology enable different forms of participation in the city? (Gray & Noortje 2018, p.13)
 
 I love this quote! It could be rephrased/repurposed for all sorts of projects:  'What then might digital data do for \[this project\]? What counts and who decides? Who and what do data infrastructures draw together? What capacities do they confer, and to what end? Could data and data technology enable different forms of participation in \[this project\]?' 
+
+> Many big data experiments treat parameters and questions as fixed in advance. But data may also involve non-experts in research: considering what is asked, which problems are deemed important, and which categories guide interpretation. Surveys and opinion polls solicit citizens to take positions on the issues of the day through interviews, focus groups or the ballot box. Data technologies enable other means to elicit, articulate and evaluate public concerns at different scales.(Gray & Noortje 2018, p.13)
+
+Again, really great methodological insights for any research project. Why does it matter that, 'Many big data experiments treat parameters and questions as fixed in advance.'? Because it's easy to confirm biases through questions. Very often, research can re-inforce existing assumptions by asking the wrong thing. Especially with big data, parameters become proxies that seem to represent an issue well (and fully) but we forget that our data points may miss out much nuance, and even become misleading in their one dimensional portrayal of a situation. 
+
+> Offcial data can be re-used to address different kinds of questions and concerns from those for which it was intended. In New York, data that was originally gathered to monitor crime has been repurposed by journalists and activists to highlight problematic and discriminatory policing practices. (Gray & Noortje 2018, p.14)
+

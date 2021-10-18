@@ -66,3 +66,6 @@ We will consider the idea of digital research methods and ask…
 
 https://plymouth.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=ab46d210-3791-40be-b191-ac5a01032171
 
+•	Boyd, D. and Crawford, K. (2011) Six Provocations for Big Data. Rochester, NY: Social Science Research Network papers.ssrn.com. 
+•	Data And Society
+•	Digital Methods Initiative

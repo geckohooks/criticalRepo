@@ -51,3 +51,18 @@ Again, really great methodological insights for any research project. Why does i
 
 > Offcial data can be re-used to address different kinds of questions and concerns from those for which it was intended. In New York, data that was originally gathered to monitor crime has been repurposed by journalists and activists to highlight problematic and discriminatory policing practices. (Gray & Noortje 2018, p.14)
 
+Tuesday, 20 October 2020: 2pm – 4pm [Lecture and workshop]
+
+Please could you read the following for this class: 
+•	Rogers, R. (2019). Detection techniques for data journalism research: The study of ‘telling data’, or when snooping is salutary for research (pp. 229 – 248). In Rogers, R. (2019). Doing Digital Methods. SAGE.
+•	Gray, J. and Marres, N. (2018) The data city as public experiment? , London Ideas, 1, Centre for London, July
+•	Hsu, W. (2014) Digital Ethnography Toward Augmented Empiricism: A New Methodological Framework 
+
+We will consider the idea of digital research methods and ask…
+• How can they be used for research?
+• What new areas of research are opened up? 
+• Who is now a researcher?
+• What is research anyway?
+
+https://plymouth.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=ab46d210-3791-40be-b191-ac5a01032171
+
